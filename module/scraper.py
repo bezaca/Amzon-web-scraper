@@ -2,7 +2,6 @@
 from bs4 import BeautifulSoup
 import requests
 import smtplib
-import time
 import os
 import ast
 from dotenv import load_dotenv
